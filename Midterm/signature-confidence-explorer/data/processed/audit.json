@@ -1,0 +1,35 @@
+{
+  "rows": 7273417,
+  "diseases": 350,
+  "na": {
+    "gene_symbol": 0,
+    "log2FoldChange_meta": 0,
+    "se_meta": 4094093,
+    "pval_meta": 586246,
+    "padj_meta": 586246,
+    "I2": 0,
+    "k_datasets": 0
+  },
+  "padj_zero": 12105,
+  "padj_zero_and_p_zero": 12105,
+  "padj_below_p": 0,
+  "abs_lfc_gt10": 10788,
+  "abs_lfc_gt10_k1": 10096,
+  "dup_symbol_rows": 265858,
+  "k1_rows": 4680339,
+  "k1_i2_zero": 4680339,
+  "padj_na_k1": 586246,
+  "padj_na_k2plus": 0,
+  "k2_5_rows": 1927922,
+  "k6_rows": 665156,
+  "sig_rows": 1202003,
+  "sig_k1": 760675,
+  "sample_rows": 200591,
+  "sample_fraction": 0.03,
+  "seed": 830,
+  "tier_counts_diseases": {
+    "low": 213,
+    "high": 123,
+    "medium": 14
+  }
+}
