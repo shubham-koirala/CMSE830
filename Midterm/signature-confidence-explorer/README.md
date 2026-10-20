@@ -4,7 +4,7 @@ An interactive Streamlit app that helps a researcher judge **how far to trust an
 
 **Main finding:** 61% of the 350 diseases (213) rest on a single dataset, so their signatures cannot be checked for replication. Only 35% (123) have a gene backed by 6 or more datasets, and diseases with more than one dataset show moderate to substantial disagreement between them (median I² 53%).
 
-> Live app: _add your Streamlit Community Cloud link here after deploying_
+> Live app: https://cmse830-signature-confidence.streamlit.app/
 
 ## Who it is for
 
